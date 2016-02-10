@@ -27,7 +27,5 @@ public class PipelineBuilder {
         this.likeFilter = likeFilter;
     }
 
-    public boolean execute() {
-        fileDataCollector.read()
-    }
+
 }
