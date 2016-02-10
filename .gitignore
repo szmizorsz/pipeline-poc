@@ -1,0 +1,16 @@
+buildpath
+.project
+.settings
+target/
+bin/
+.idea/
+*.class
+*.iml
+*.log
+*.iws
+*.ipr
+*.db
+.DS_Store
+.classpath
+*/nbactions.xml
+*/nb-configuration.xml
