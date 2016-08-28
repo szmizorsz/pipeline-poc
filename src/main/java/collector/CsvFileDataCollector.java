@@ -38,6 +38,7 @@ public abstract class CsvFileDataCollector<T> implements FileDataCollector {
         this.skipHeaderRecords = skipHeaderRecords;
     }
 
+    //comment
     public Collection<T> read() throws IOException {
 
         FileReader in = new FileReader(fileName);
