@@ -65,8 +65,8 @@ public class LikeDTO {
     public String toString() {
         return "LikeDTO{" +
                 "performerId=" + performerId +
-                ", memberId=" + memberId +
-                ", contentType='" + contentType + '\'' +
+                ", memberId =" + memberId +
+                ", contentType ='" + contentType + '\'' +
                 ", documentPrivacyStatus='" + documentPrivacyStatus + '\'' +
                 ", createdAt=" + createdAt +
                 '}';
